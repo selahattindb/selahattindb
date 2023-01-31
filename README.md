@@ -1,6 +1,15 @@
-### Hi there 👋
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<!--
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
+<!-- ### Hi there 👋
+
+
 **selahattindb/selahattindb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
