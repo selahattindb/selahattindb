@@ -45,11 +45,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selahattindb&layout=compact&theme=vision-friendly-dark)](https://github.com/selahattindb/github-readme-stats)
 
-
-
-
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
